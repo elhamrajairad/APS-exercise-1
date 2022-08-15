@@ -1,5 +1,7 @@
 poem about Rainbow.
 purple
 red
+blue
+green
 orange
 there are colors the rainbow.
